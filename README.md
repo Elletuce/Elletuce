@@ -21,7 +21,7 @@
 
 ### 🔧 Languages and Softwares
 
-<p align="left">
+<p align="center">
   <a href=""><img width="64px" alt="Python" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href=""><img width="64px" alt="MATLAB" title="MATLAB" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1280px-Matlab_Logo.png"/></a>
