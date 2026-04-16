@@ -12,10 +12,10 @@
 
 ### Interests:<br/>
 
-- ☁️ Software Optimization
-- 🚶‍➡️ Biodynamic Simulations
-- 🏎 Automotive Designs
-- 🦾 Robotics
+- Software Optimization
+- AI Software Implementation
+- Automotive Designs
+- Robotics
 
 ---
 
